@@ -1,0 +1,12 @@
+{
+  "ID": "300B48458E0542CD9E5A0710FAAAC56F",
+  "ActionKeyword": "ss",
+  "Name": "Symbols",
+  "Description": "Symbols insertion",
+  "Author": "rybcom",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "www.wox.one",
+  "IcoPath": "Images\\symbol.png",
+  "ExecuteFileName": "Wox.Plugin.Symbols.dll"
+}
